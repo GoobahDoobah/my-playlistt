@@ -31,8 +31,6 @@ https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Cartoon Network
 https://fl6.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Nickelodeon
-https://fl5.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Entertainment", E!
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Disney Channel
@@ -47,17 +45,16 @@ https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Hallmark Movie Mysteries
 https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 tvg-id="Entertainment",Lifetime 
+#EXTINF:-1 group-title="Entertainment",Lifetime 
 https://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="Entertainment",Lifetime Movie Network
+#EXTINF:-1 group-title="Entertainment",Lifetime Movie Network
 https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Entertainment",MTV Live
+#EXTINF:-1 group-title="Entertainment",MTV Live
 https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="Entertainment",MTV Classic
+#EXTINF:-1 group-title="Entertainment",MTV Classic
 https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="Entertainment",MTV
+#EXTINF:-1 group-title="Entertainment",MTV
 https://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="Entertainment",MTV 2
-https://fl3.moveonjoy.com/MTV_2/index.m3u8
+
 
 
