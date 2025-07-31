@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment", ESPN U
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 group-title="Entertainment", ESPN NEWS
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8?checkedby:iptvcat.org
+
