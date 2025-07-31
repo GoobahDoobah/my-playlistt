@@ -3,35 +3,27 @@
 https://fl3.moveonjoy.com/ESPN_U/index.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="Sports", ESPN NEWS
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 group-title="Sports", CBS Sports HQ
-https://list.iptvcat.com/my_list/s/e90a254db5d07b0b7e8ed205a1a83bb6.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="Sports", CBS Sports Network USA
-https://list.iptvcat.com/my_list/s/7fc143e0af670a67e53605ffb740732f.m3u8
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports", Fox Sports
-https://list.iptvcat.com/my_list/s/4e158385ff044250bb466bf1b8dc4fa5.m3u8
-#EXTINF:-1 group-title="Sports", NBC Sports
-https://list.iptvcat.com/my_list/s/9f037244c410f49af4b4c459cfef5a97.m3u8
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 group-title="News", ABC News
-https://list.iptvcat.com/my_list/s/c59ab30227d7ed7b1cb17f1d4eab5dce.m3u8
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="News", ESPN News
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="News", BBC News
-https://list.iptvcat.com/my_list/s/e564244a39a0481259c8d1b2273f90cb.m3u8
+https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="News", CBS News 24/7
-https://list.iptvcat.com/my_list/s/036116d4e3cbf6f7f5b49fdfe250e408.m3u8
+https://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="News", Fox news
-https://list.iptvcat.com/my_list/s/8c42b1386221b5fe720e1b59ec60dc4c.m3u8
-#EXTINF:-1 group-title="News", NBC News Now
-https://list.iptvcat.com/my_list/s/97e586fa5d1244b60869b682d9c17d2b.m3u8#EXTINF:-1 group-title="News", ABC News
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="News1", Entertainment Tonight
-https://list.iptvcat.com/my_list/s/35ee17ddb7c0071d1e9e88bd39192361.m3u8
 #EXTINF:-1 group-title="News1", Showtime
-https://list.iptvcat.com/my_list/s/35ee17ddb7c0071d1e9e88bd39192361.m3u8
+https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="News1", AMC
-https://list.iptvcat.com/my_list/s/4de8a1a031860ada8198360e1a786824.m3u8
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="News1", Cartoon Netwrok
-https://list.iptvcat.com/my_list/s/bd7d295cbc106d36491e59f262f3efb5.m3u8
+https://fl6.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="News1", Nickelodeon
-https://list.iptvcat.com/my_list/s/d6e3f3f345872cc9c72fe818b81cbf4d.m3u8
+https://fl5.moveonjoy.com/NICKELODEON/index.m3u8
