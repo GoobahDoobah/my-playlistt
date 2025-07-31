@@ -55,6 +55,7 @@ https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV
 https://fl3.moveonjoy.com/MTV/index.m3u8
-
+#EXTINF:-1 group-title="Entertainment", Paramount Network
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 
