@@ -19,11 +19,12 @@ https://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="News", Fox news
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="News1", Showtime
+#EXTINF:-1 group-title="Entertainment", Showtime
 https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="News1", AMC
+#EXTINF:-1 group-title="Entertainment", AMC
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="News1", Cartoon Netwrok
+#EXTINF:-1 group-title="Entertainment", Cartoon Netwrok
 https://fl6.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="News1", Nickelodeon
-https://fl5.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Entertainment", Nickelodeon
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8 
+
